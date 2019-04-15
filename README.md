@@ -2,7 +2,7 @@
 MIW Selenium Test Cases
 
 ## Description
-This test automation framework was built using Selenium WebDriver, Java, and TestNG. The approach I took to build this was to implement the Page Object Model design pattern. The code is divided into tests and pages, one for Google and one for the Ritchie Bros. Auctioneers website. 
+This test automation framework was built using Selenium WebDriver, Java, TestNG, Eclipse IDE, and Chrome Driver. The approach I took to build this was to implement the Page Object Model design pattern. The code is divided into tests and pages, one for Google and one for the Ritchie Bros. Auctioneers website. 
 
 ## Setup
 1. Download or clone this repository onto your machine
