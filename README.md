@@ -9,8 +9,13 @@ This test automation framework was built using Selenium WebDriver, Java, TestNG,
 2. Open Eclipse IDE
 3. Install TestNG through Eclipse Marketplace
 
-## Execute Test Cases
-To run the Google or Ritchie Bros test cases, expand the "tests" directory within the Package Explorer. Right click on the respective test class Java file (GoogleTest.java or RitchieBrosTest.java), hover over <i>Run As</i> and select <i>TestNG Test</i>.
+## Test Case Execution Instructions
+To run the Google or Ritchie Bros test cases:
+1. Go to Package Explorer and expand the "src/main/java" directory
+2. Expand the "tests" directory within the Package Explorer. 
+3. Right click on the respective test class Java file (GoogleTest.java or RitchieBrosTest.java)
+4. Hover over <i>Run As</i>
+5. Select <i>TestNG Test</i>.
 
 ## QA Test Plan
 
