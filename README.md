@@ -24,5 +24,5 @@ To run the Google or Ritchie Bros test cases:
 <b>Google:</b>
 100% of all test cases should pass. The home page should load successfully without any client or server errors (400, 500). After entering a search query, the href attribute of the link of the first result should be: www.mobileintegrationsworkgroup.com
 
-<b>Ritchie Bros.:</b>
+<b>Ritchie Bros. Auctioneers:</b>
 100% of all test cases should pass. After entering all of the search criteria in the text fields, the "Details" section of the first result should display text.
